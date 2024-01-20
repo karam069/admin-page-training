@@ -138,4 +138,10 @@ table th{
         padding: 4px;
         gap: 18px;
     }
+    .menu{
+        height: 140vh;
+    }
+    .menu .log-out{
+        bottom: 30px;
+    }
 }
