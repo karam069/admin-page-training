@@ -129,3 +129,13 @@ table th{
     padding: 6px;
     border-radius: 6px;
 }
+
+@media (max-width: 600px){
+    .profile h2{
+        font-size: 14px;
+    }
+    .menu ul li a{
+        padding: 4px;
+        gap: 18px;
+    }
+}
